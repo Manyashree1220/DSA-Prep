@@ -2,20 +2,37 @@ class Solution {
     public int climbStairs(int n) {
 
         // 3 different approaches
+        //1.
         // if(n<=2)
         //     return n;
         // return climbStairs(n-1)+climbStairs(n-2);
-
-        int dp[]=new int[n+1];
+        //2.
+        // int dp[]=new int[n+1];
+        // if(n<=2)
+        //     return n;
+        // dp[1]=1;
+        // dp[2]=2;
+        // for(int i=3;i<=n;i++)
+        // {
+        //     dp[i]=dp[i-1]+dp[i-2];
+        // }
+        // return dp[n];
+        //3.
+        int climb=0;
         if(n<=2)
             return n;
-        dp[1]=1;
-        dp[2]=2;
+        int prev2=1;
+        int prev1=2;
+
         for(int i=3;i<=n;i++)
         {
-            dp[i]=dp[i-1]+dp[i-2];
+            climb=prev1+prev2;
+            prev2=prev1;
+            prev1=climb;
         }
-        return dp[n];
+        return climb;
+
+
         
     }
 }
