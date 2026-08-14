@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -31,6 +32,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -39,5 +41,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
