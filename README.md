@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Manyashree1220/DSA-Prep/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Manyashree1220/DSA-Prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0509-fibonacci-number) |
@@ -51,4 +52,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/Manyashree1220/DSA-Prep/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
