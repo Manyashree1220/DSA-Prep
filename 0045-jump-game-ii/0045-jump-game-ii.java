@@ -8,7 +8,7 @@ class Solution {
         for(int i=0;i<n;i++)
         {
 
-            if (dp[i] == Integer.MAX_VALUE) continue;
+            //if (dp[i] == Integer.MAX_VALUE) continue;
 
             
             int maxReach=Math.min(n-1,i+nums[i]);
