@@ -16,6 +16,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Manyashree1220/DSA-Prep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manyashree1220/DSA-Prep/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Manyashree1220/DSA-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Manyashree1220/DSA-Prep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manyashree1220/DSA-Prep/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Manyashree1220/DSA-Prep/tree/master/0091-decode-ways) |
@@ -65,4 +67,8 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Manyashree1220/DSA-Prep/tree/master/0055-jump-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Manyashree1220/DSA-Prep/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
