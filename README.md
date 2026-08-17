@@ -28,6 +28,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Manyashree1220/DSA-Prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [3693-climbing-stairs-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
@@ -56,6 +57,7 @@
 | [0091-decode-ways](https://github.com/Manyashree1220/DSA-Prep/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Manyashree1220/DSA-Prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [3693-climbing-stairs-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/3693-climbing-stairs-ii) |
@@ -90,4 +92,16 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0040-combination-sum-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
