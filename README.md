@@ -33,6 +33,7 @@
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
+| [2742-painting-the-walls](https://github.com/Manyashree1220/DSA-Prep/tree/master/2742-painting-the-walls) |
 | [3693-climbing-stairs-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@
 | [0518-coin-change-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/1143-longest-common-subsequence) |
+| [2742-painting-the-walls](https://github.com/Manyashree1220/DSA-Prep/tree/master/2742-painting-the-walls) |
 | [3693-climbing-stairs-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
