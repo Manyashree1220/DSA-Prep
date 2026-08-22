@@ -25,6 +25,7 @@
 | [0064-minimum-path-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Manyashree1220/DSA-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Manyashree1220/DSA-Prep/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manyashree1220/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Manyashree1220/DSA-Prep/tree/master/0152-maximum-product-subarray) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manyashree1220/DSA-Prep/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Combinatorics
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0112-path-sum) |
@@ -171,6 +174,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0112-path-sum) |
@@ -183,4 +187,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0543-diameter-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
