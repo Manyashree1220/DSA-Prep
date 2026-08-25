@@ -36,6 +36,7 @@
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
+| [1046-last-stone-weight](https://github.com/Manyashree1220/DSA-Prep/tree/master/1046-last-stone-weight) |
 | [2742-painting-the-walls](https://github.com/Manyashree1220/DSA-Prep/tree/master/2742-painting-the-walls) |
 | [3693-climbing-stairs-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Manyashree1220/DSA-Prep/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Manyashree1220/DSA-Prep/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
