@@ -128,6 +128,7 @@
 | [0112-path-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -305,4 +307,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
