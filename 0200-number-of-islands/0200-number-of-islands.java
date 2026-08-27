@@ -18,14 +18,23 @@ class Solution {
     void dfs(char grid[][], int r,int c,boolean vis[][])
     {
         vis[r][c]=true;
-        int rd[]={-1,1,0,0};
-        int cd[]={0,0,-1,1};
-        for(int i=0;i<4;i++)
-        {
-            int tr=r+rd[i];
-            int tc=c+cd[i];
-            if(tr>=0 && tr<grid.length && tc>=0 && tc<grid[0].length && grid[tr][tc]=='1' && !vis[tr][tc])
-                dfs(grid,tr,tc,vis);
-        }
+        // int rd[]={-1,1,0,0};
+        // int cd[]={0,0,-1,1};
+        // for(int i=0;i<4;i++)
+        // {
+        //     int tr=r+rd[i];
+        //     int tc=c+cd[i];
+        //     if(tr>=0 && tr<grid.length && tc>=0 && tc<grid[0].length && grid[tr][tc]=='1' && !vis[tr][tc])
+        //         dfs(grid,tr,tc,vis);
+        // }
+        if(r-1>=0 && grid[r-1][c]=='1' && !vis[r-1][c])
+            dfs(grid,r-1,c,vis);
+
+        if(r+1<grid.length && grid[r+1][c]=='1' && !vis[r+1][c])
+            dfs(grid,r+1,c,vis);
+        if(c-1>=0 && grid[r][c-1]=='1' && !vis[r][c-1])
+            dfs(grid,r,c-1,vis);
+        if(c+1<grid[0].length && grid[r][c+1]=='1' && !vis[r][c+1])
+            dfs(grid,r,c+1,vis);
     }
 }
