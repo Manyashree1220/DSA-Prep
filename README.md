@@ -32,6 +32,7 @@
 | [0152-maximum-product-subarray](https://github.com/Manyashree1220/DSA-Prep/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Manyashree1220/DSA-Prep/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Manyashree1220/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0239-sliding-window-maximum) |
@@ -58,6 +59,7 @@
 | [0063-unique-paths-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Manyashree1220/DSA-Prep/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Manyashree1220/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
 ## Dynamic Programming
 |  |
@@ -128,6 +130,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Manyashree1220/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
@@ -194,6 +197,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Manyashree1220/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -314,6 +318,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Manyashree1220/DSA-Prep/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
