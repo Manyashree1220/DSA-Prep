@@ -10,18 +10,28 @@ class Solution {
     {
         image[r][c]=color;
 
-        int rd[]={-1,1,0,0};
-        int cd[]={0,0,-1,1};
-        int tr=r;
-        int tc=c;
-        for(int i=0;i<4;i++)
-        {
-            r=tr+rd[i];
-            c=tc+cd[i];
-            if(r>=0 && r<image.length&& c>=0&&c<image[0].length && image[r][c]==prev)
-            {
-                dfs(image,r,c,prev,color);
-            }
-        }
+        // int rd[]={-1,1,0,0};
+        // int cd[]={0,0,-1,1};
+        // int tr=r;
+        // int tc=c;
+        // for(int i=0;i<4;i++)
+        // {
+        //     r=tr+rd[i];
+        //     c=tc+cd[i];
+        //     if(r>=0 && r<image.length&& c>=0&&c<image[0].length && image[r][c]==prev)
+        //     {
+        //         dfs(image,r,c,prev,color);
+        //     }
+        // }
+
+        if(r-1>=0 && image[r-1][c]==prev)
+            dfs(image,r-1,c,prev,color);
+
+        if(r+1<image.length && image[r+1][c]==prev)
+            dfs(image,r+1,c,prev,color);
+        if(c-1>=0 && image[r][c-1]==prev)
+            dfs(image,r,c-1,prev,color);
+        if(c+1<image[0].length && image[r][c+1]==prev)
+            dfs(image,r,c+1,prev,color);
     }
 }
