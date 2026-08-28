@@ -39,6 +39,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0518-coin-change-ii) |
+| [0695-max-area-of-island](https://github.com/Manyashree1220/DSA-Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
@@ -62,6 +63,7 @@
 | [0064-minimum-path-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Manyashree1220/DSA-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Manyashree1220/DSA-Prep/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Manyashree1220/DSA-Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Manyashree1220/DSA-Prep/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Manyashree1220/DSA-Prep/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -137,6 +139,7 @@
 | [0200-number-of-islands](https://github.com/Manyashree1220/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Manyashree1220/DSA-Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Manyashree1220/DSA-Prep/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Manyashree1220/DSA-Prep/tree/master/0994-rotting-oranges) |
@@ -210,6 +213,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Manyashree1220/DSA-Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Manyashree1220/DSA-Prep/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
@@ -327,6 +331,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Manyashree1220/DSA-Prep/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Manyashree1220/DSA-Prep/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Manyashree1220/DSA-Prep/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
