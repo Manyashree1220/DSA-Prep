@@ -138,6 +138,7 @@
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Manyashree1220/DSA-Prep/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Manyashree1220/DSA-Prep/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Manyashree1220/DSA-Prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
@@ -210,6 +211,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Manyashree1220/DSA-Prep/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -325,9 +327,19 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Manyashree1220/DSA-Prep/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Manyashree1220/DSA-Prep/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Manyashree1220/DSA-Prep/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Manyashree1220/DSA-Prep/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Manyashree1220/DSA-Prep/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
