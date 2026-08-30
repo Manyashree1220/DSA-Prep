@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Manyashree1220/DSA-Prep/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/Manyashree1220/DSA-Prep/tree/master/0127-word-ladder) |
 | [1143-longest-common-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -136,6 +137,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manyashree1220/DSA-Prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Manyashree1220/DSA-Prep/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Manyashree1220/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Manyashree1220/DSA-Prep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0210-course-schedule-ii) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Manyashree1220/DSA-Prep/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Lifting
 |  |
@@ -362,4 +365,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Manyashree1220/DSA-Prep/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Manyashree1220/DSA-Prep/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
