@@ -176,6 +176,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Manyashree1220/DSA-Prep/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Manyashree1220/DSA-Prep/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Manyashree1220/DSA-Prep/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
