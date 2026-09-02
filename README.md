@@ -39,6 +39,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manyashree1220/DSA-Prep/tree/master/0417-pacific-atlantic-water-flow) |
+| [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Manyashree1220/DSA-Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
@@ -177,6 +178,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Manyashree1220/DSA-Prep/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -263,6 +265,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Manyashree1220/DSA-Prep/tree/master/0127-word-ladder) |
+| [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Lifting
 |  |
@@ -375,4 +378,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Manyashree1220/DSA-Prep/tree/master/0127-word-ladder) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
