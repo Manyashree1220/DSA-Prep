@@ -43,6 +43,7 @@
 | [0518-coin-change-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Manyashree1220/DSA-Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Manyashree1220/DSA-Prep/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Manyashree1220/DSA-Prep/tree/master/0994-rotting-oranges) |
@@ -179,6 +180,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Manyashree1220/DSA-Prep/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Manyashree1220/DSA-Prep/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -382,4 +384,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Manyashree1220/DSA-Prep/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
