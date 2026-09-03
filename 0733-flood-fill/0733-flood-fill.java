@@ -8,7 +8,19 @@ class Solution {
     }
     void dfs(int image[][],int r,int c,int prev,int color)
     {
+        
+        if(r<0 || c<0 || r>=image.length || c>=image[0].length )
+            return ;
+
+        if (image[r][c] != prev)
+        return;
+
         image[r][c]=color;
+
+        dfs(image,r-1,c,prev,color);
+        dfs(image,r+1,c,prev,color);
+        dfs(image,r,c-1,prev,color);
+        dfs(image,r,c+1,prev,color);
 
         // int rd[]={-1,1,0,0};
         // int cd[]={0,0,-1,1};
@@ -24,14 +36,16 @@ class Solution {
         //     }
         // }
 
-        if(r-1>=0 && image[r-1][c]==prev)
-            dfs(image,r-1,c,prev,color);
+        // if(r-1>=0 && image[r-1][c]==prev)
+        //     dfs(image,r-1,c,prev,color);
 
-        if(r+1<image.length && image[r+1][c]==prev)
-            dfs(image,r+1,c,prev,color);
-        if(c-1>=0 && image[r][c-1]==prev)
-            dfs(image,r,c-1,prev,color);
-        if(c+1<image[0].length && image[r][c+1]==prev)
-            dfs(image,r,c+1,prev,color);
+        // if(r+1<image.length && image[r+1][c]==prev)
+        //     dfs(image,r+1,c,prev,color);
+        // if(c-1>=0 && image[r][c-1]==prev)
+        //     dfs(image,r,c-1,prev,color);
+        // if(c+1<image[0].length && image[r][c+1]==prev)
+        //     dfs(image,r,c+1,prev,color);
+
+        
     }
 }
