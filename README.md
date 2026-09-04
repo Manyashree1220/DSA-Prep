@@ -99,6 +99,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -110,6 +111,7 @@
 | ------- |
 | [0091-decode-ways](https://github.com/Manyashree1220/DSA-Prep/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Manyashree1220/DSA-Prep/tree/master/0127-word-ladder) |
+| [0394-decode-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0394-decode-string) |
 | [1143-longest-common-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -180,6 +182,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Manyashree1220/DSA-Prep/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Manyashree1220/DSA-Prep/tree/master/0739-daily-temperatures) |
 ## Tree
