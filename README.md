@@ -39,6 +39,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manyashree1220/DSA-Prep/tree/master/0417-pacific-atlantic-water-flow) |
+| [0456-132-pattern](https://github.com/Manyashree1220/DSA-Prep/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Manyashree1220/DSA-Prep/tree/master/0695-max-area-of-island) |
@@ -59,6 +60,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/Manyashree1220/DSA-Prep/tree/master/0456-132-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Manyashree1220/DSA-Prep/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/Manyashree1220/DSA-Prep/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Manyashree1220/DSA-Prep/tree/master/0739-daily-temperatures) |
 ## Tree
@@ -390,6 +393,11 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Manyashree1220/DSA-Prep/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Manyashree1220/DSA-Prep/tree/master/0739-daily-temperatures) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Manyashree1220/DSA-Prep/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
