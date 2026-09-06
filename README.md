@@ -44,6 +44,7 @@
 | [0518-coin-change-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Manyashree1220/DSA-Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Manyashree1220/DSA-Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Manyashree1220/DSA-Prep/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
@@ -187,6 +188,7 @@
 | [0394-decode-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Manyashree1220/DSA-Prep/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Manyashree1220/DSA-Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Manyashree1220/DSA-Prep/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
@@ -400,4 +402,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Manyashree1220/DSA-Prep/tree/master/0456-132-pattern) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Manyashree1220/DSA-Prep/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
