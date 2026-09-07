@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Manyashree1220/DSA-Prep/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Manyashree1220/DSA-Prep/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0509-fibonacci-number) |
@@ -104,6 +105,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Manyashree1220/DSA-Prep/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0509-fibonacci-number) |
 ## Memoization
