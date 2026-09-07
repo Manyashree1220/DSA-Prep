@@ -118,6 +118,7 @@
 | ------- |
 | [0091-decode-ways](https://github.com/Manyashree1220/DSA-Prep/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Manyashree1220/DSA-Prep/tree/master/0127-word-ladder) |
+| [0344-reverse-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0394-decode-string) |
 | [1143-longest-common-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/1143-longest-common-subsequence) |
 ## Greedy
@@ -308,6 +309,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
 |  |
