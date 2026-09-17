@@ -81,6 +81,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Manyashree1220/DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Manyashree1220/DSA-Prep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manyashree1220/DSA-Prep/tree/master/0055-jump-game) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Manyashree1220/DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Manyashree1220/DSA-Prep/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Manyashree1220/DSA-Prep/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0344-reverse-string) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Manyashree1220/DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Manyashree1220/DSA-Prep/tree/master/0078-subsets) |
@@ -421,4 +424,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Manyashree1220/DSA-Prep/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Manyashree1220/DSA-Prep/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
