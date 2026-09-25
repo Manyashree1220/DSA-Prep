@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0040-combination-sum-ii) |
@@ -323,6 +324,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
