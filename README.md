@@ -56,6 +56,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Manyashree1220/DSA-Prep/tree/master/0994-rotting-oranges) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/Manyashree1220/DSA-Prep/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Manyashree1220/DSA-Prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2742-painting-the-walls](https://github.com/Manyashree1220/DSA-Prep/tree/master/2742-painting-the-walls) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Manyashree1220/DSA-Prep/tree/master/0055-jump-game) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
