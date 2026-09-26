@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/2119-a-number-after-a-double-reversal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
