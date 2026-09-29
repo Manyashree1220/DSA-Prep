@@ -42,6 +42,7 @@
 | [0200-number-of-islands](https://github.com/Manyashree1220/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
@@ -302,6 +303,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyashree1220/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Manyashree1220/DSA-Prep/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/0133-clone-graph) |
+| [0219-contains-duplicate-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Lifting
@@ -375,6 +377,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
