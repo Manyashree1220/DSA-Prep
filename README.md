@@ -47,6 +47,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manyashree1220/DSA-Prep/tree/master/0417-pacific-atlantic-water-flow) |
+| [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Manyashree1220/DSA-Prep/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0518-coin-change-ii) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Manyashree1220/DSA-Prep/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Divide and Conquer
 |  |
@@ -332,6 +334,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Design
@@ -355,6 +358,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Quickselect
@@ -450,4 +454,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Manyashree1220/DSA-Prep/tree/master/0051-n-queens) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
