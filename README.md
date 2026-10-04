@@ -62,6 +62,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Manyashree1220/DSA-Prep/tree/master/0994-rotting-oranges) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1029-two-city-scheduling](https://github.com/Manyashree1220/DSA-Prep/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Manyashree1220/DSA-Prep/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Manyashree1220/DSA-Prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2742-painting-the-walls](https://github.com/Manyashree1220/DSA-Prep/tree/master/2742-painting-the-walls) |
@@ -144,6 +145,7 @@
 | [0179-largest-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1029-two-city-scheduling](https://github.com/Manyashree1220/DSA-Prep/tree/master/1029-two-city-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Manyashree1220/DSA-Prep/tree/master/1029-two-city-scheduling) |
 ## Quickselect
 |  |
 | ------- |
@@ -462,4 +465,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Manyashree1220/DSA-Prep/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Manyashree1220/DSA-Prep/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
