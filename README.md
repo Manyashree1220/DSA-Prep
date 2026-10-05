@@ -27,6 +27,7 @@
 | [0051-n-queens](https://github.com/Manyashree1220/DSA-Prep/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Manyashree1220/DSA-Prep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manyashree1220/DSA-Prep/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Manyashree1220/DSA-Prep/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Manyashree1220/DSA-Prep/tree/master/0074-search-a-2d-matrix) |
@@ -362,6 +363,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Manyashree1220/DSA-Prep/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
@@ -464,6 +466,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Manyashree1220/DSA-Prep/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 ## Hungarian Algorithm
 |  |
