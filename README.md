@@ -49,6 +49,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manyashree1220/DSA-Prep/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/Manyashree1220/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Manyashree1220/DSA-Prep/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
@@ -110,6 +111,7 @@
 | [0213-house-robber-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Manyashree1220/DSA-Prep/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/Manyashree1220/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyashree1220/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
@@ -144,6 +146,7 @@
 | [0045-jump-game-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Manyashree1220/DSA-Prep/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/Manyashree1220/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/Manyashree1220/DSA-Prep/tree/master/1029-two-city-scheduling) |
@@ -366,6 +369,7 @@
 | [0056-merge-intervals](https://github.com/Manyashree1220/DSA-Prep/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/Manyashree1220/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0977-squares-of-a-sorted-array) |
