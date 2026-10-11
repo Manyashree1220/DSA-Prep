@@ -57,6 +57,7 @@
 | [0456-132-pattern](https://github.com/Manyashree1220/DSA-Prep/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0518-coin-change-ii) |
+| [0621-task-scheduler](https://github.com/Manyashree1220/DSA-Prep/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Manyashree1220/DSA-Prep/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Manyashree1220/DSA-Prep/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Manyashree1220/DSA-Prep/tree/master/0733-flood-fill) |
@@ -153,6 +154,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Manyashree1220/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Manyashree1220/DSA-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Manyashree1220/DSA-Prep/tree/master/0621-task-scheduler) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/Manyashree1220/DSA-Prep/tree/master/1029-two-city-scheduling) |
 ## Divide and Conquer
@@ -321,6 +323,7 @@
 | [0133-clone-graph](https://github.com/Manyashree1220/DSA-Prep/tree/master/0133-clone-graph) |
 | [0219-contains-duplicate-ii](https://github.com/Manyashree1220/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Manyashree1220/DSA-Prep/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Lifting
 |  |
@@ -361,6 +364,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Manyashree1220/DSA-Prep/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Manyashree1220/DSA-Prep/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Manyashree1220/DSA-Prep/tree/master/1046-last-stone-weight) |
@@ -377,6 +381,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Manyashree1220/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Manyashree1220/DSA-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Manyashree1220/DSA-Prep/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Manyashree1220/DSA-Prep/tree/master/1029-two-city-scheduling) |
@@ -486,4 +491,8 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Manyashree1220/DSA-Prep/tree/master/1029-two-city-scheduling) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Manyashree1220/DSA-Prep/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
