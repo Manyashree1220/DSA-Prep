@@ -143,6 +143,7 @@
 | [0179-largest-number](https://github.com/Manyashree1220/DSA-Prep/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0394-decode-string) |
+| [0767-reorganize-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0767-reorganize-string) |
 | [1143-longest-common-subsequence](https://github.com/Manyashree1220/DSA-Prep/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -155,6 +156,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Manyashree1220/DSA-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Manyashree1220/DSA-Prep/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0767-reorganize-string) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manyashree1220/DSA-Prep/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/Manyashree1220/DSA-Prep/tree/master/1029-two-city-scheduling) |
 ## Divide and Conquer
@@ -325,6 +327,7 @@
 | [0496-next-greater-element-i](https://github.com/Manyashree1220/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Manyashree1220/DSA-Prep/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manyashree1220/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0767-reorganize-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0767-reorganize-string) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -366,6 +369,7 @@
 | [0239-sliding-window-maximum](https://github.com/Manyashree1220/DSA-Prep/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Manyashree1220/DSA-Prep/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Manyashree1220/DSA-Prep/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Manyashree1220/DSA-Prep/tree/master/1046-last-stone-weight) |
 ## Data Stream
@@ -382,6 +386,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Manyashree1220/DSA-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Manyashree1220/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Manyashree1220/DSA-Prep/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Manyashree1220/DSA-Prep/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyashree1220/DSA-Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Manyashree1220/DSA-Prep/tree/master/1029-two-city-scheduling) |
@@ -495,4 +500,5 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Manyashree1220/DSA-Prep/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Manyashree1220/DSA-Prep/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
